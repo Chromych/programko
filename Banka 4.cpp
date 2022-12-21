@@ -10,8 +10,7 @@ int main() {
     int zustatekjamal = 8000000;
 
     int vyberjamal;
-
-
+//to je super
     zacatek:
     system("CLS");
     cout << "Banka Blanka\n";
