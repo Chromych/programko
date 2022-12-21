@@ -8,7 +8,7 @@ int main() {
     int zustatekjarmila = 500;
     int vyberjarmila;
     int zustatekjamal = 8000000;
-
+//jses fakt zmrd
     int vyberjamal;
 //to je super
     zacatek:
