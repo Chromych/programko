@@ -18,7 +18,7 @@ int main() {
     cout << "1) Pepe\n";
     cout << "2) Jarmila\n";
     cout << "3) Jamal\n";
-
+//je to srajda
  int user;
     cout << "Kdo se chce prihlasit?\n";
     cin >> user;
