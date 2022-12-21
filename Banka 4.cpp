@@ -1,7 +1,7 @@
 #include <iostream>
 #include <Windows.h>
 using namespace std;
-
+//je ta fakt dobry kamo
 int main() {
     int zustatekpepe = 0;
     int vyberpepe;
